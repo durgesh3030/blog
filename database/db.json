@@ -1,0 +1,30 @@
+{
+  "blogs": [
+    {
+      "title": "my new website1",
+      "body": "lorem  ispusm....",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "my new website2",
+      "body": "lorem ispusm....",
+      "author": "lugies",
+      "id": 2
+    },
+    {
+      "title": "blog test",
+      "body": "First, let's go over a brief history -- in 1994, Swarthmore College student Justin Hall is credited with the creation of the first blog, Links.net. At the time, however, it wasn't considered a blog … just a personal homepage.\n\nIn 1997, Jorn Barger, blogger for Robot Wisdom, coined the term \"weblog\", which was meant to describe his process for \"logging the web\" as he surfed the internet. The term \"weblog\" was shortened to \"blog\" in 1999, by programmer Peter Merholz.\n\nIn the early stages, a blog was a personal web log or journal in which someone could share information or their opinion on a variety of topics. The information was posted reverse chronologically, so the most recent post would appear first.\n\nNowadays, a blog is a regularly updated website or web page, and can either be used for personal use or to fulfill a business need.\n\nFor instance, HubSpot blogs about various topics concerning marketing, sales, and service because HubSpot sells products related to those three subjects -- so, more than likely, the type of readers HubSpot's blog attracts are going to be similar to HubSpot's core buyer persona.\n\nAlternatively, a woman named Kiki started a personal travel blog, called The Blonde Abroad, to document her travel experiences and provide readers with helpful tips and travel recommendations. Her blog doesn't serve a larger company, but it does help her create a personal brand.",
+      "author": "tester",
+      "id": 3
+    },
+    {
+      "title": "Food",
+      "body": "One of my favorite recent successful blog examples in the food space comes from Laura & Sarah at Wandercooks.\n\nThe creative wife + wife team behind this Australian-based food blog was founded in 2015 and has grown to reach more than 380,000 unique readers/mo. Based around the principle of sharing cuisines, cultures and recipes from around the world, Laura & Sarah have travelled to over 35 countries and more than 100+ cities learning as they’ve gone—and you get an instant feeling from their homepage of just how approachable & friendly they are.\n\nSo, what makes Wander cooks such a standout blog example in the food space right now?",
+      "author": "tester",
+      "id": 4
+    }
+   
+  
+  ]
+}
