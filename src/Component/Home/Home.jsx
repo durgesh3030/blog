@@ -4,7 +4,7 @@ import useFetch from "../../useFetch";
 
 // const Home = () => {
 //   // const handleClick = () => {
-//   //   //  console.log('hello ninjas', );
+//   //   //  console.log('hello dp', );
 //   //   setName('durgesh');
 //   //   setAge(23);
 //   // }

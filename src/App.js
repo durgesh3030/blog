@@ -8,6 +8,7 @@ import BlogDetail from "./Component/BlogDetail/BlogDetail";
 
 function App() {
   return (
+
     <Router>
       <div className="App">
         <Navbar />
